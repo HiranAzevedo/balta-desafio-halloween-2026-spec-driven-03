@@ -1,0 +1,21 @@
+# .NET
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+*.user
+*.suo
+packages/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+
+# Editor and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
